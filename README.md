@@ -11,4 +11,4 @@ An important part of that process is writing a reproducible report. It shows tha
 ## Content
 
 ### OverTheWire
-- [Natas](OverTheWire/README.md)
+- [Natas](OverTheWire/Natas/README.md)
