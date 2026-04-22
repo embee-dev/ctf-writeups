@@ -47,6 +47,6 @@ The password for the next level can be found in a **"leftover" HTML comment** in
 
 ### Real World Lessons
 
-The vulnerability exploited in this level is very similar to [Natas Level 0](#natas-level-0), so the same lesson applies: always review code for potential information exposure issues, see [CWE-200: Exposure of Sensitive Information to an Unauthorized Actor](https://cwe.mitre.org/data/definitions/200.html).
+The vulnerability exploited in this level is very similar to [Natas Level 0](natas0.md), so the same lesson applies: always review code for potential information exposure issues, see [CWE-200: Exposure of Sensitive Information to an Unauthorized Actor](https://cwe.mitre.org/data/definitions/200.html).
 
 There is one subtle difference, though, and it holds an important lesson: **any data that is sent in an HTTP response can and will be read, parsed, and analyzed**. Solutions like **disabling the context menu**, **disabling keyboard shortcuts**, or **hiding paywalled content behind a blurred `div` element**, are not enough. **Never send sensitive data** and then try to hide it on the front end.
