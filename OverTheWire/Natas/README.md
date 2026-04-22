@@ -37,3 +37,4 @@ This directory contains my notes and solutions for the Natas wargame. I followed
 
 - [Natas Level 0](natas0.md)
 - [Natas Level 1](natas1.md)
+- [Natas Level 2](natas2.md)
