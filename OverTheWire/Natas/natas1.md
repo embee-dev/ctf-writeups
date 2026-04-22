@@ -45,7 +45,7 @@ The password for the next level can be found in a **"leftover" HTML comment** in
 <!--The password for natas2 is {redacted} -->
 ```
 
-### Real World Lessons
+## Real World Lessons
 
 The vulnerability exploited in this level is very similar to [Natas Level 0](natas0.md), so the same lesson applies: always review code for potential information exposure issues, see [CWE-200: Exposure of Sensitive Information to an Unauthorized Actor](https://cwe.mitre.org/data/definitions/200.html).
 
