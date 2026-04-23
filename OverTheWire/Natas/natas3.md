@@ -79,5 +79,7 @@ natas4:{redacted}
 The most important lesson from this challenge is highlighted in the [robots.txt configuration guide at MDN](https://developer.mozilla.org/en-US/docs/Web/Security/Practical_implementation_guides/Robots_txt#solution):
 
 > [robots.txt] should not be used as a way to prevent the disclosure of private information or to hide portions of a website.
+> 
 > ...
+> 
 > ...be aware that some robots, such as malware robots and email address harvesters, will ignore your robots.txt file.
